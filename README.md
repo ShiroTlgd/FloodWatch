@@ -38,6 +38,20 @@ Splash ──(já marcou "não mostrar novamente")──────────
 | Detalhes | Dados da área, clima no ponto, favoritar, atualizar e excluir (com confirmação) |
 | Cadastro / Atualização | Formulário com validação dos campos |
 
+## Prints das telas
+
+| Splash | Introdução | Início |
+|:--:|:--:|:--:|
+| <img src="prints/splash.png" width="220"> | <img src="prints/intro.png" width="220"> | <img src="prints/home.png" width="220"> |
+
+| Favoritos | Clima | Detalhes |
+|:--:|:--:|:--:|
+| <img src="prints/favorites.png" width="220"> | <img src="prints/weather.png" width="220"> | <img src="prints/details.png" width="220"> |
+
+| Cadastro |
+|:--:|
+| <img src="prints/form.png" width="220"> |
+
 ## API utilizada
 
 [Open-Meteo](https://open-meteo.com/en/docs): API pública e gratuita, sem necessidade de chave. Endpoint utilizado: `GET /v1/forecast`.
