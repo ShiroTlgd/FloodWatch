@@ -103,6 +103,7 @@ br.com.fiap.rm98825
 - Retrofit, Gson e OkHttp
 - Coroutines e StateFlow
 - Min SDK 26 / Target SDK 35
+- JDK 17 ou superior (testado com JDK 21, o JetBrains Runtime que acompanha o Android Studio)
 
 ## Como executar
 
@@ -119,4 +120,4 @@ Cadastre uma área com as coordenadas de um local onde esteja chovendo e toque n
 
 ## Desenvolvedores
 
-> **Preencher:** nome e RM de cada integrante do grupo.
+> Caue Fonseca Pinoti RM98825
